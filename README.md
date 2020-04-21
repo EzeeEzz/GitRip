@@ -1,0 +1,2 @@
+# GitRip
+Store and Share
