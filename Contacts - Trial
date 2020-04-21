@@ -1,0 +1,66 @@
+contact1_fname = 'Ezra '
+contact1_lname = 'Rhoden '
+contact1_mob = '07580 182551 '
+Ezra = contact1_fname + contact1_lname + contact1_mob
+contact2_fname = 'Leon '
+contact2_lname = 'Fontenelle '
+contact2_mob = '07957 161729 '
+Leon = contact2_fname + contact2_lname + contact2_mob
+contact3_fname = 'Leonel '
+contact3_lname = 'Zimi '
+contact3_mob = '07944 6604406'
+Leonel = contact3_fname + contact3_lname + contact3_mob
+contact_dict = {'Ezra': str(Ezra), 'Leon': str(Leon), 'Leonel': str(Leonel)}
+contact_dict['insert firstname here']
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
