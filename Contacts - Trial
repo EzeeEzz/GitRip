@@ -8,10 +8,25 @@ contact2_mob = '07957 161729 '
 Leon = contact2_fname + contact2_lname + contact2_mob
 contact3_fname = 'Leonel '
 contact3_lname = 'Zimi '
-contact3_mob = '07944 6604406'
+contact3_mob = '07944 660440'
 Leonel = contact3_fname + contact3_lname + contact3_mob
-contact_dict = {'Ezra': str(Ezra), 'Leon': str(Leon), 'Leonel': str(Leonel)}
-contact_dict['insert firstname here']
+Rhoden = Ezra
+Fontenelle = Leon
+Zimi = Leonel
+int07580182551 = str(Ezra)
+int07957161729 = str(Leon)
+int07944660440 = str(Leonel)
+contact_fname_dict = {'Ezra': str(Ezra), 'Leon': str(Leon), 'Leonel': str(Leonel)}
+contact_lname_dict = {'Rhoden': str(Ezra), 'Fontenelle': str(Leon), 'Zimi': str(Leonel)}
+contact_mob_dict = {'int07580182551': str(Ezra), 'int07957161729': str(Leon), 'int07944660440': str(Leonel)}
+contact_fname_dict ['Ezra']
+contact_lname_dict ['Zimi']
+contact_mob_dict ['int07957161729']
+
+
+
+
+
 
 
 
